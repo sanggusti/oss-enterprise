@@ -1,6 +1,6 @@
-Title: Using github.com/ORG/REPO
+Title: Using [this project](github.com/sanggusti/oss-enterprise)
 
-I would like to use github.com/ORG/REPO as a dependency in the XYZ project. This issue will serve as a tracking issue for verification of this project:
+I would like to use github.com/sanggusti/oss-enterprise as a dependency in the XYZ project. This issue will serve as a tracking issue for verification of this project:
 
 ## Project Health Check
 
