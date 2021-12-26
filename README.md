@@ -15,7 +15,23 @@ It's easier to answer this question in terms of what should **not** be open sour
 Before you open source your project, consider the effort required to maintain it. Being an great open source maintainer requires more effort than managing a closed source project. Read our [Maintainer Guide](docs/maintainers-guide.md) to understand what will be expected of you.
 
 ## FAQ
+- What is the purpose of this repository?
 
+    This repository is for the [Open Source](https://opensource.org) community to share projects that are open source and ready for release.
+
+- Who should someone contact if they have questions?
+
+    Please contact [@maintainer](gustiowinata0@gmail.com)
+- How should someone make contact if they have questions?
+
+    Please contact [@maintainer](gustiowinata0@gmail.com)
+- What are the first steps to getting started open sourcing a project?
+
+    You can start by [creating a new issue](https://github.com/sanggusti/oss-enterprise/issues) and asking for help on what feature you could work on.
+
+- How does this repository relate to other projects and business goals?
+
+    This repository is for my own template to work on open source projects.
 #### Who owns the code I contribute to open source projects?
 
 ## License
