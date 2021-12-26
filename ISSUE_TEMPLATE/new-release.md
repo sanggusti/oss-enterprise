@@ -1,6 +1,6 @@
 Title: Release *****/REPO
 
-I'm going to share [REPO name](REPO link) with the world, but before I do, I want to make sure:
+I'm going to share [oss-enterprise](github.com/sanggusti/oss-enterprise) with the world, but before I do, I want to make sure:
 
 ## Coordination
 
