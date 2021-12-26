@@ -1,7 +1,7 @@
 ## Contributing
 
-[fork]: https://github.com/ORG/REPO/fork
-[pr]: https://github.com/ORG/REPO/compare
+[fork]: https://github.com/sanggusti/oss-enterprise/fork
+[pr]: https://github.com/sanggusti/oss-enterprise/compare
 [style]: STYLEGUIDE
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
@@ -20,7 +20,7 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
-- Follow the [style guide][link to styleguide].
+- Follow the [style guide](style).
 - Write tests.
 - Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
 - Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
